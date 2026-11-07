@@ -72,6 +72,7 @@ Experienced in leading engineering teams, designing scalable systems, mentoring 
 - Position: Software Engineering Team Leader – iOS
 - Platform Category: Online Learning
 - App Store URL: https://apps.apple.com/us/app/classera-academy/id6450148286
+- Google Play URL: https://play.google.com/store/apps/details?id=com.app.classera.advancedacademy&hl=en
 
 ## App Description
 
@@ -95,6 +96,7 @@ Online learning platform providing educational content and professional developm
 - Position: Software Engineering Team Leader – iOS
 - Platform Category: Education Technology
 - App Store URL: https://apps.apple.com/us/app/classera/id1102012717
+- Google play URL: https://play.google.com/store/apps/details?id=com.app.classera.classlight&hl=en
 
 ## App Description
 
@@ -122,24 +124,24 @@ Educational platform connecting students, teachers, parents, and administrators 
 ## Applications URL's
 
 ### My Foodics
-
-https://apps.apple.com/us/app/my-foodics/id6453055213
+- App Store URL: https://apps.apple.com/us/app/my-foodics/id6453055213
+- Google play URL: https://play.google.com/store/search?q=my+foodics&c=apps&hl=en
 
 ### Foodics 5 Cashier
 
-https://apps.apple.com/us/app/foodics-5-cashier/id1516147723
+- App Store URL: https://apps.apple.com/us/app/foodics-5-cashier/id1516147723
 
 ### Foodics 5 KDS
 
-https://apps.apple.com/us/app/foodics-5-kds/id1516148490
+- App Store URL: https://apps.apple.com/us/app/foodics-5-kds/id1516148490
 
 ### Foodics 5 Display
 
-https://apps.apple.com/us/app/foodics-5-display/id1516154030
+- App Store URL: https://apps.apple.com/us/app/foodics-5-display/id1516154030
 
 ### Foodics 5 Notifier
 
-https://apps.apple.com/us/app/foodics-5-notifier/id1516153072
+- App Store URL: https://apps.apple.com/us/app/foodics-5-notifier/id1516153072
 
 ## App Description
 
